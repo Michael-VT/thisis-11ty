@@ -1,5 +1,5 @@
 ---
-title: This is static site generator.
+title: This is first static site generator. 3
 description: This is generator static site modern with eleventy 11ty.
 date: 2022-04-15
 cover: https://text11ty.pages.dev/img/webcepat.png

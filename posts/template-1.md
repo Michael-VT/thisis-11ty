@@ -1,5 +1,5 @@
 ---
-title: This is my first template. In One! 4
+title: This is my first template. Copy! 5
 description: this is a template theme that we present to eleventy 11ty lovers.
 date: 2022-04-15
 cover: https://text11ty.pages.dev/img/webcepat.png

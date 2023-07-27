@@ -1,5 +1,5 @@
 ---
-title: This is my 11ty project.
+title: This is my 11ty project. 2
 description: this is a other source code project for eleventy 11ty.
 date: 2022-04-15
 cover: https://text11ty.pages.dev/img/webcepat.png
