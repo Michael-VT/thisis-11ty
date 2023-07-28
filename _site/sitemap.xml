@@ -87,11 +87,6 @@
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/project/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  <url>
     <loc>https://thisis11ty.netlify.app/tags/tema/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -102,7 +97,17 @@
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/article-seo-gpt/</loc>
+    <loc>https://thisis11ty.netlify.app/tags/project/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisis11ty.netlify.app/posts/articlseo/</loc>
     <lastmod>2023-07-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://thisis11ty.netlify.app/posts/article-seo-gpt/</loc>
+    <lastmod>2023-07-27</lastmod>
   </url>
 </urlset>
