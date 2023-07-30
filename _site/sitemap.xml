@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://thisis11ty.netlify.app/posts/article1/</loc>
+    <lastmod>2022-01-01</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thisis11ty.netlify.app/posts/eleventy/</loc>
     <lastmod>2022-04-15</lastmod>
   </url>
