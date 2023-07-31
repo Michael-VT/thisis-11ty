@@ -4,7 +4,6 @@
   "description": "Classic blog SEO web template this is for eleventy 11ty.",
   "scripts": {
     "build": "eleventy",
-    "watch": "eleventy --watch",
     "serve": "eleventy --serve",
     "start": "eleventy --serve --port 8080",
     "debug": "DEBUG=* npx @11ty/eleventy"
