@@ -1,8 +1,8 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "Thisis Classic SEO template",
+  "title": "Это классическая заготовка SEO",
   "language": "en",
-  "home_page_url": "https://thisis11ty.netlify.app/",
+  "home_page_url": "https://comdev.com.ua/",
   "feed_url": "https://example.com/feed/feed.json",
   "description": "Super SEO for built your site and blog with this is 11ty eleventy.",
   "author": {
@@ -10,51 +10,57 @@
     "url": "https://eleventy.web.app/"
   },
   "items": [{
-      "id": "https://thisis11ty.netlify.app/posts/article-seo-gpt/",
-      "url": "https://thisis11ty.netlify.app/posts/article-seo-gpt/",
-      "title": "Интернет вещи управления температурой теплого пола",
+      "id": "https://comdev.com.ua/posts/tutor/",
+      "url": "https://comdev.com.ua/posts/tutor/",
+      "title": "",
+      "content_html": "",
+      "date_published": "2023-07-31T15:18:53Z"
+    },{
+      "id": "https://comdev.com.ua/posts/article-seo-gpt/",
+      "url": "https://comdev.com.ua/posts/article-seo-gpt/",
+      "title": "Интернет вещи управления температурой теплого пола!",
       "content_html": "<ul></ul>\n<p>Про интернет вещи для управления электрическим теплым полом регулируя температуру помещения</p>\n<p>Введение:</p>\n<p>Узнайте, как новые технологии интернета вещей и системы умного дома могут значительно улучшить управление электрическим теплым полом, предоставляя комфортную атмосферу в вашем доме. Современные системы не только регулируют температуру, но и обеспечивают автоматизацию процесса, интеграцию с другими умными устройствами и доступ к удаленному управлению.</p>\n<p>Электрический теплый пол - идеальное решение для комфортного отопления. Когда он сочетается с интернетом вещей, вы получаете максимальную гибкость и контроль. Системы умного дома, такие как Xiaomi и Алиса, позволяют управлять теплым полом по расписанию, из любого места, а также интегрировать его с другими функциями умного дома, такими как освещение и безопасность.</p>\n<p>Автоматизация дома с использованием интернета вещей и систем умного дома предоставляет уникальные возможности для создания комфортного и энергоэффективного помещения. Вы можете настроить автоматическое включение теплого пола перед вашим появлением дома или установить оптимальную температуру для каждого помещения в соответствии с вашим расписанием.</p>\n<p>Купить оборудование для умного дома и установить теплый пол стало проще с развитием интернета вещей. Вы можете выбрать подходящую систему и интегрировать ее в ваш существующий интерьер с минимальными изменениями. Системы автономных теплых полов предлагают надежное и эффективное решение для обогрева комнат и снижения затрат на энергию.</p>\n<p>Заключение:</p>\n<p>Интернет вещей и системы умного дома - это не просто новые технологии, но и революционный шаг в электротехнике. Они обеспечивают большую гибкость и контроль над электрическим теплым полом, создавая комфортную атмосферу в вашем доме. Купите оборудование для умного дома и наслаждайтесь высоким уровнем комфорта и энергосбережения.</p>\n<p><a href=\"http://localhost:8081/posts/article-seo-gpt/\">Читать статью полностью</a></p>\n",
       "date_published": "2023-07-29T00:00:00Z"
     },{
-      "id": "https://thisis11ty.netlify.app/posts/articlseo/",
-      "url": "https://thisis11ty.netlify.app/posts/articlseo/",
+      "id": "https://comdev.com.ua/posts/articlseo/",
+      "url": "https://comdev.com.ua/posts/articlseo/",
       "title": "Интернет вещей и электрический теплый пол для автоматизации умного дома",
       "content_html": "<p>Интернет вещей (IoT) предлагает захватывающиe новые возможности для автоматизации умного дома. Одной из ключевых областей применения IoT является управление электрическим теплым полом, позволяя владельцам жилых помещений регулировать температуру безо всякого труда.</p>\n<p>Теплые полы – это не только удобная система обогрева в холодное время года, но и отличный способ создать комфортный и уютный интерьер в вашем доме. Благодаря технологиям IoT, управление этими системами стало еще проще и удобнее.</p>\n<p>Один из примеров такой системы – электрический теплый пол под плитку или ламинат. В связке с умным домом Xiaomi, вы получите полный контроль над температурой в своем доме с помощью смартфона или голосовых команд через Алису.</p>\n<p>Не нужно беспокоиться о том, что пол будет слишком холодным или жарким – автоматическая система регулирования температуры обеспечит идеальный комфорт, оптимально учитывая погодные условия и ваш личный график.</p>\n<p>Купить оборудование для умного дома с теплым полом стало гораздо проще. Системы, поддерживающие IoT, доступны на рынке по разумной цене. Такие устройства позволят вам наслаждаться автоматизацией и упрощенным управлением температурой в вашем доме.</p>\n<p>Автоматизация дома стала неотъемлемой частью нашей жизни. Умный дом с теплым полом – это лишь один из аспектов этой технологии. Отопление и регулировка температуры – важные факторы, влияющие на комфорт в доме. Используя IoT, вы можете создать автоматизированную систему, которая будет обеспечивать идеальные условия в вашем доме.</p>\n<p>Вывод: если вы хотите купить теплый пол и настроить автоматизацию в вашем умном доме, обратите внимание на системы, поддерживающие интернет вещей. Они позволят вам максимально эффективно регулировать температуру в помещении и создавать комфортные условия для себя и своей семьи.å</p>\n",
       "date_published": "2023-07-26T00:00:00Z"
     },{
-      "id": "https://thisis11ty.netlify.app/posts/template/",
-      "url": "https://thisis11ty.netlify.app/posts/template/",
+      "id": "https://comdev.com.ua/posts/template/",
+      "url": "https://comdev.com.ua/posts/template/",
       "title": "This is my first template. In One! 4",
       "content_html": "<p>This is a display <a href=\"https://11ty.dev/\">theme template</a> that was built using the latest and modern eleventy 11ty site static generator, with a clean white design that will be better for the reader's eyes, and of course you can also download this theme on the github repo or you can also choose various themes on the eleventy website for various alternatives.</p>\n<p>Dan ya ini adalah tema display yang dibangun menggunakan <a href=\"https://11ty.dev/\">eleventy 11ty generator statis site terbaru</a> dan modern , dengan desain yang bersih warna putih akan lebih baik untuk mata pembaca , dan tentunya kalian juga bisa mengunduh tema ini pada repo github atau kamu juga bisa memilih berbagai tema di website eleventy untuk berbagai pilihan alternatif.</p>\n<p>If you need built powerfull website with eleventy 11ty so <a href=\"https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll\">hire me →</a></p>\n",
       "date_published": "2022-04-15T00:00:00Z"
     },{
-      "id": "https://thisis11ty.netlify.app/posts/template-1/",
-      "url": "https://thisis11ty.netlify.app/posts/template-1/",
+      "id": "https://comdev.com.ua/posts/template-1/",
+      "url": "https://comdev.com.ua/posts/template-1/",
       "title": "This is my first template. Copy! 5",
       "content_html": "<p>This is a display <a href=\"https://11ty.dev/\">theme template</a> that was built using the latest and modern eleventy 11ty site static generator, with a clean white design that will be better for the reader's eyes, and of course you can also download this theme on the github repo or you can also choose various themes on the eleventy website for various alternatives.</p>\n<p>Dan ya ini adalah tema display yang dibangun menggunakan <a href=\"https://11ty.dev/\">eleventy 11ty generator statis site terbaru</a> dan modern , dengan desain yang bersih warna putih akan lebih baik untuk mata pembaca , dan tentunya kalian juga bisa mengunduh tema ini pada repo github atau kamu juga bisa memilih berbagai tema di website eleventy untuk berbagai pilihan alternatif.</p>\n<p>If you need built powerfull website with eleventy 11ty so <a href=\"https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll\">hire me →</a></p>\n",
       "date_published": "2022-04-15T00:00:00Z"
     },{
-      "id": "https://thisis11ty.netlify.app/posts/staticsitegenerator/",
-      "url": "https://thisis11ty.netlify.app/posts/staticsitegenerator/",
+      "id": "https://comdev.com.ua/posts/staticsitegenerator/",
+      "url": "https://comdev.com.ua/posts/staticsitegenerator/",
       "title": "This is first static site generator. 3",
       "content_html": "<p>There are many <a href=\"https://11ty.dev/\">static site generators</a> available, but for convenience and freedom of experimentation to its ability to support SEO, Eleven has it all, with 11ty making your site stronger and faster to support auto SEO, 11ty is the best priority for you to develop websites and blogs.</p>\n<p>Banyak generator static site yang ada , tetapi untuk urusan kemudahan dan kebebasan bereksperimen hingga kemampuan nya untuk menunjang SEO maka eleventy memiliki semua nya, dengan 11ty menjadikan situs lebih kuat dan cepat serta dukungan auto <a href=\"https://11ty.dev/\">SEO</a> nya , maka eleventy 11ty adalah prioritas utama terbaik untuk mu dalam mengembangkan website dan blog.</p>\n<p>If you need built powerfull website with eleventy 11ty so <a href=\"https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll\">hire me →</a></p>\n",
       "date_published": "2022-04-15T00:00:00Z"
     },{
-      "id": "https://thisis11ty.netlify.app/posts/project/",
-      "url": "https://thisis11ty.netlify.app/posts/project/",
+      "id": "https://comdev.com.ua/posts/project/",
+      "url": "https://comdev.com.ua/posts/project/",
       "title": "This is my 11ty project. 2",
       "content_html": "<p>We have developed several open source codes for <a href=\"https://11ty.dev/\">Eleventy</a>, specifically for the need for template themes, various options you can use in creating websites or blogs to mobile webs and making Android with Eleventy is also very possible, immediately click the link on the menu to go to the open source code information. , and download it for free.</p>\n<p>Kami telah mengembangkan beberapa kode sumber terbuka untuk eleventy khusus nya pada kebutuhan tema template, berbagai pilihan bisa kamu gunakan dalam membuat website maupun blog hingga mobile web dan membuat android dengan eleventy pun sangat memungkinkan , segera klik link pada menu untuk menuju ke informasi kode sumber terbuka, dan unduh secara gratis.</p>\n<ul>\n<li><a href=\"https://eleventyblog.vercel.app/\">bootstrap11ty →</a></li>\n<li><a href=\"https://text11ty.pages.dev/\">text11ty →</a></li>\n<li><a href=\"https://mobile11ty.pages.dev/\">mobile11ty →</a></li>\n<li><a href=\"https://cuteblog.pages.dev/\">cuteblog11ty →</a></li>\n<li><a href=\"https://statisweb.pages.dev/\">cool11ty →</a></li>\n<li><a href=\"https://11tyshop.pages.dev/\">shop11ty →</a></li>\n<li><a href=\"https://grandlimousine.netlify.app/\">car11ty →</a></li>\n</ul>\n<p>If you need built powerfull website with eleventy 11ty so <a href=\"https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll\">hire me →</a></p>\n",
       "date_published": "2022-04-15T00:00:00Z"
     },{
-      "id": "https://thisis11ty.netlify.app/posts/eleventy/",
-      "url": "https://thisis11ty.netlify.app/posts/eleventy/",
+      "id": "https://comdev.com.ua/posts/eleventy/",
+      "url": "https://comdev.com.ua/posts/eleventy/",
       "title": "This is eleventy 11ty Time. 1",
       "content_html": "<p>11ty is one of my favorite clan of static site generators for developing modern websites quickly and with powerful SEO<br>\nEase of expression and expansion is what makes me love him so much.</p>\n<h3 id=\"codding-structure\" tabindex=\"-1\">Codding Structure <a class=\"direct-link\" href=\"#codding-structure\">#</a></h3>\n<p>A simple but very complete face-to-face provides convenience for developers in develope a project using <a href=\"https://11ty.dev/\">eleventy 11ty</a>.</p>\n<p>Ini adalah generator static site modern yang dikembangkan menggunakan eleventy 11ty , sebuah solusi terbaik dalam membangun project blog dan situs dengan cepat pun penuh dengan SEO nya.</p>\n<p>Tidak perlu ribet lagi akan integrasi database, dan bekerja dengan markdown file cukup membantu dalam mempercepat kebutuhan untuk sekedar ngeblog, membuat artikel dan berbagai aktifitas lain nya.</p>\n<p>Dan saat nya kini kamu update serta upgrade website mu dan beralih ke <a href=\"https://11ty.dev/\">eleventy 11ty</a> untuk solusi terbaik bagi situs mu.</p>\n<p>If you need built powerfull website with eleventy 11ty so <a href=\"https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll\">hire me →</a></p>\n",
       "date_published": "2022-04-15T00:00:00Z"
     },{
-      "id": "https://thisis11ty.netlify.app/posts/article1/",
-      "url": "https://thisis11ty.netlify.app/posts/article1/",
-      "title": "Интернет вещи и системы умного дома для регулирования температуры помещения c тёплоыми полами",
+      "id": "https://comdev.com.ua/posts/article1/",
+      "url": "https://comdev.com.ua/posts/article1/",
+      "title": "IoT и системы умного дома для регулирования температуры помещения",
       "content_html": "<p>Введение в IoT:</p>\n<p>В этой статье мы рассмотрим интернет вещи и системы умного дома, а также электрические тёплые полы. Мы расскажем о преимуществах и возможностях таких систем, а также о том, как они могут помочь в регулировании температуры в помещении.</p>\n<p>Статья:</p>\n<p>Интернет вещи и системы умного дома представляют собой новый подход к автоматизации и контролю различных устройств в доме. Одним из ключевых применений таких систем является регулирование температуры помещения с помощью электрических тёплых полов.</p>\n<p>Электрический тёплый пол является эффективным способом обогрева помещения. Он может быть установлен под плитку или ламинат, обеспечивая комфортную температуру даже в холодные зимние дни. Управление таким полом с помощью систем умного дома позволяет добиться ещё большей эффективности и экономии энергии.</p>\n<p>Системы умного дома, такие как умный дом Xiaomi, позволяют управлять тёплыми полами из любой точки мира, используя интернет. Вы можете настроить расписание работы пола, чтобы он автоматически включался и выключался в определенное время. Это особенно удобно, если вы хотите, чтобы пол был уже тёплым, когда вы приходите домой.</p>\n<p>Купить оборудование для умного дома можно в специализированных магазинах. Многие системы умного дома совместимы с голосовыми помощниками, такими как Алиса. Это позволяет управлять теплым полом с помощью голосовых команд, делая его управление ещё более удобным и простым.</p>\n<p>Автоматизация дома становится все более популярной, поскольку она позволяет с легкостью контролировать и управлять различными устройствами и системами. Система умного дома позволяет создать интеллектуальную среду, где все устройства работают в гармонии, обеспечивая максимальный комфорт и экономию ресурсов.</p>\n<p>Таким образом, интернет вещи и системы умного дома предоставляют уникальные возможности для управления электрическим тёплым полом и регулирования температуры в помещении. Купить и установить такую систему позволит вам наслаждаться комфортом и экономить энергию. Автоматизация дома сделает вашу жизнь проще и удобнее.</p>\n<p>Короткий адрес для ссылки:<br>\n<a href=\"https://comdev.com.ua/article1\">https://comdev.com.ua/article1</a></p>\n",
       "date_published": "2022-01-01T00:00:00Z"
     }

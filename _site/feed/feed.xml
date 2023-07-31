@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Thisis Classic SEO template</title>
+	<title>Это классическая заготовка SEO</title>
 	<subtitle>Super SEO for built your site and blog with this is 11ty eleventy.</subtitle>
 	
-	<link href="https://thisis11ty.netlify.app/feed/feed.xml" rel="self"/>
-	<link href="https://thisis11ty.netlify.app/"/>
-	<updated>2023-07-29T00:00:00Z</updated>
-	<id>https://thisis11ty.netlify.app/</id>
+	<link href="https://comdev.com.ua/feed/feed.xml" rel="self"/>
+	<link href="https://comdev.com.ua/"/>
+	<updated>2023-07-31T15:18:53Z</updated>
+	<id>https://comdev.com.ua/</id>
 	<author>
 		<name>thisis11ty</name>
 		<email>axcora@gmail.com</email>
 	</author>
 	
 	<entry>
-		<title>Интернет вещи управления температурой теплого пола</title>
-		<link href="https://thisis11ty.netlify.app/posts/article-seo-gpt/"/>
+		<title></title>
+		<link href="https://comdev.com.ua/posts/tutor/"/>
+		<updated>2023-07-31T15:18:53Z</updated>
+		<id>https://comdev.com.ua/posts/tutor/</id>
+		<content type="html"></content>
+	</entry>
+	
+	<entry>
+		<title>Интернет вещи управления температурой теплого пола!</title>
+		<link href="https://comdev.com.ua/posts/article-seo-gpt/"/>
 		<updated>2023-07-29T00:00:00Z</updated>
-		<id>https://thisis11ty.netlify.app/posts/article-seo-gpt/</id>
+		<id>https://comdev.com.ua/posts/article-seo-gpt/</id>
 		<content type="html">&lt;ul&gt;&lt;/ul&gt;
 &lt;p&gt;Про интернет вещи для управления электрическим теплым полом регулируя температуру помещения&lt;/p&gt;
 &lt;p&gt;Введение:&lt;/p&gt;
@@ -32,9 +40,9 @@
 	
 	<entry>
 		<title>Интернет вещей и электрический теплый пол для автоматизации умного дома</title>
-		<link href="https://thisis11ty.netlify.app/posts/articlseo/"/>
+		<link href="https://comdev.com.ua/posts/articlseo/"/>
 		<updated>2023-07-26T00:00:00Z</updated>
-		<id>https://thisis11ty.netlify.app/posts/articlseo/</id>
+		<id>https://comdev.com.ua/posts/articlseo/</id>
 		<content type="html">&lt;p&gt;Интернет вещей (IoT) предлагает захватывающиe новые возможности для автоматизации умного дома. Одной из ключевых областей применения IoT является управление электрическим теплым полом, позволяя владельцам жилых помещений регулировать температуру безо всякого труда.&lt;/p&gt;
 &lt;p&gt;Теплые полы – это не только удобная система обогрева в холодное время года, но и отличный способ создать комфортный и уютный интерьер в вашем доме. Благодаря технологиям IoT, управление этими системами стало еще проще и удобнее.&lt;/p&gt;
 &lt;p&gt;Один из примеров такой системы – электрический теплый пол под плитку или ламинат. В связке с умным домом Xiaomi, вы получите полный контроль над температурой в своем доме с помощью смартфона или голосовых команд через Алису.&lt;/p&gt;
@@ -47,9 +55,9 @@
 	
 	<entry>
 		<title>This is my first template. In One! 4</title>
-		<link href="https://thisis11ty.netlify.app/posts/template/"/>
+		<link href="https://comdev.com.ua/posts/template/"/>
 		<updated>2022-04-15T00:00:00Z</updated>
-		<id>https://thisis11ty.netlify.app/posts/template/</id>
+		<id>https://comdev.com.ua/posts/template/</id>
 		<content type="html">&lt;p&gt;This is a display &lt;a href=&quot;https://11ty.dev/&quot;&gt;theme template&lt;/a&gt; that was built using the latest and modern eleventy 11ty site static generator, with a clean white design that will be better for the reader&#39;s eyes, and of course you can also download this theme on the github repo or you can also choose various themes on the eleventy website for various alternatives.&lt;/p&gt;
 &lt;p&gt;Dan ya ini adalah tema display yang dibangun menggunakan &lt;a href=&quot;https://11ty.dev/&quot;&gt;eleventy 11ty generator statis site terbaru&lt;/a&gt; dan modern , dengan desain yang bersih warna putih akan lebih baik untuk mata pembaca , dan tentunya kalian juga bisa mengunduh tema ini pada repo github atau kamu juga bisa memilih berbagai tema di website eleventy untuk berbagai pilihan alternatif.&lt;/p&gt;
 &lt;p&gt;If you need built powerfull website with eleventy 11ty so &lt;a href=&quot;https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll&quot;&gt;hire me →&lt;/a&gt;&lt;/p&gt;
@@ -58,9 +66,9 @@
 	
 	<entry>
 		<title>This is my first template. Copy! 5</title>
-		<link href="https://thisis11ty.netlify.app/posts/template-1/"/>
+		<link href="https://comdev.com.ua/posts/template-1/"/>
 		<updated>2022-04-15T00:00:00Z</updated>
-		<id>https://thisis11ty.netlify.app/posts/template-1/</id>
+		<id>https://comdev.com.ua/posts/template-1/</id>
 		<content type="html">&lt;p&gt;This is a display &lt;a href=&quot;https://11ty.dev/&quot;&gt;theme template&lt;/a&gt; that was built using the latest and modern eleventy 11ty site static generator, with a clean white design that will be better for the reader&#39;s eyes, and of course you can also download this theme on the github repo or you can also choose various themes on the eleventy website for various alternatives.&lt;/p&gt;
 &lt;p&gt;Dan ya ini adalah tema display yang dibangun menggunakan &lt;a href=&quot;https://11ty.dev/&quot;&gt;eleventy 11ty generator statis site terbaru&lt;/a&gt; dan modern , dengan desain yang bersih warna putih akan lebih baik untuk mata pembaca , dan tentunya kalian juga bisa mengunduh tema ini pada repo github atau kamu juga bisa memilih berbagai tema di website eleventy untuk berbagai pilihan alternatif.&lt;/p&gt;
 &lt;p&gt;If you need built powerfull website with eleventy 11ty so &lt;a href=&quot;https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll&quot;&gt;hire me →&lt;/a&gt;&lt;/p&gt;
@@ -69,9 +77,9 @@
 	
 	<entry>
 		<title>This is first static site generator. 3</title>
-		<link href="https://thisis11ty.netlify.app/posts/staticsitegenerator/"/>
+		<link href="https://comdev.com.ua/posts/staticsitegenerator/"/>
 		<updated>2022-04-15T00:00:00Z</updated>
-		<id>https://thisis11ty.netlify.app/posts/staticsitegenerator/</id>
+		<id>https://comdev.com.ua/posts/staticsitegenerator/</id>
 		<content type="html">&lt;p&gt;There are many &lt;a href=&quot;https://11ty.dev/&quot;&gt;static site generators&lt;/a&gt; available, but for convenience and freedom of experimentation to its ability to support SEO, Eleven has it all, with 11ty making your site stronger and faster to support auto SEO, 11ty is the best priority for you to develop websites and blogs.&lt;/p&gt;
 &lt;p&gt;Banyak generator static site yang ada , tetapi untuk urusan kemudahan dan kebebasan bereksperimen hingga kemampuan nya untuk menunjang SEO maka eleventy memiliki semua nya, dengan 11ty menjadikan situs lebih kuat dan cepat serta dukungan auto &lt;a href=&quot;https://11ty.dev/&quot;&gt;SEO&lt;/a&gt; nya , maka eleventy 11ty adalah prioritas utama terbaik untuk mu dalam mengembangkan website dan blog.&lt;/p&gt;
 &lt;p&gt;If you need built powerfull website with eleventy 11ty so &lt;a href=&quot;https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll&quot;&gt;hire me →&lt;/a&gt;&lt;/p&gt;
@@ -80,9 +88,9 @@
 	
 	<entry>
 		<title>This is my 11ty project. 2</title>
-		<link href="https://thisis11ty.netlify.app/posts/project/"/>
+		<link href="https://comdev.com.ua/posts/project/"/>
 		<updated>2022-04-15T00:00:00Z</updated>
-		<id>https://thisis11ty.netlify.app/posts/project/</id>
+		<id>https://comdev.com.ua/posts/project/</id>
 		<content type="html">&lt;p&gt;We have developed several open source codes for &lt;a href=&quot;https://11ty.dev/&quot;&gt;Eleventy&lt;/a&gt;, specifically for the need for template themes, various options you can use in creating websites or blogs to mobile webs and making Android with Eleventy is also very possible, immediately click the link on the menu to go to the open source code information. , and download it for free.&lt;/p&gt;
 &lt;p&gt;Kami telah mengembangkan beberapa kode sumber terbuka untuk eleventy khusus nya pada kebutuhan tema template, berbagai pilihan bisa kamu gunakan dalam membuat website maupun blog hingga mobile web dan membuat android dengan eleventy pun sangat memungkinkan , segera klik link pada menu untuk menuju ke informasi kode sumber terbuka, dan unduh secara gratis.&lt;/p&gt;
 &lt;ul&gt;
@@ -100,12 +108,12 @@
 	
 	<entry>
 		<title>This is eleventy 11ty Time. 1</title>
-		<link href="https://thisis11ty.netlify.app/posts/eleventy/"/>
+		<link href="https://comdev.com.ua/posts/eleventy/"/>
 		<updated>2022-04-15T00:00:00Z</updated>
-		<id>https://thisis11ty.netlify.app/posts/eleventy/</id>
+		<id>https://comdev.com.ua/posts/eleventy/</id>
 		<content type="html">&lt;p&gt;11ty is one of my favorite clan of static site generators for developing modern websites quickly and with powerful SEO&lt;br /&gt;
 Ease of expression and expansion is what makes me love him so much.&lt;/p&gt;
-&lt;h3 id=&quot;codding-structure&quot; tabindex=&quot;-1&quot;&gt;Codding Structure &lt;a class=&quot;direct-link&quot; href=&quot;https://thisis11ty.netlify.app/posts/eleventy/#codding-structure&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;codding-structure&quot; tabindex=&quot;-1&quot;&gt;Codding Structure &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/eleventy/#codding-structure&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;A simple but very complete face-to-face provides convenience for developers in develope a project using &lt;a href=&quot;https://11ty.dev/&quot;&gt;eleventy 11ty&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Ini adalah generator static site modern yang dikembangkan menggunakan eleventy 11ty , sebuah solusi terbaik dalam membangun project blog dan situs dengan cepat pun penuh dengan SEO nya.&lt;/p&gt;
 &lt;p&gt;Tidak perlu ribet lagi akan integrasi database, dan bekerja dengan markdown file cukup membantu dalam mempercepat kebutuhan untuk sekedar ngeblog, membuat artikel dan berbagai aktifitas lain nya.&lt;/p&gt;
@@ -115,10 +123,10 @@ Ease of expression and expansion is what makes me love him so much.&lt;/p&gt;
 	</entry>
 	
 	<entry>
-		<title>Интернет вещи и системы умного дома для регулирования температуры помещения c тёплоыми полами</title>
-		<link href="https://thisis11ty.netlify.app/posts/article1/"/>
+		<title>IoT и системы умного дома для регулирования температуры помещения</title>
+		<link href="https://comdev.com.ua/posts/article1/"/>
 		<updated>2022-01-01T00:00:00Z</updated>
-		<id>https://thisis11ty.netlify.app/posts/article1/</id>
+		<id>https://comdev.com.ua/posts/article1/</id>
 		<content type="html">&lt;p&gt;Введение в IoT:&lt;/p&gt;
 &lt;p&gt;В этой статье мы рассмотрим интернет вещи и системы умного дома, а также электрические тёплые полы. Мы расскажем о преимуществах и возможностях таких систем, а также о том, как они могут помочь в регулировании температуры в помещении.&lt;/p&gt;
 &lt;p&gt;Статья:&lt;/p&gt;

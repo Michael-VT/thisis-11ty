@@ -2,117 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/article1/</loc>
+    <loc>https://comdev.com.ua/posts/article1/</loc>
     <lastmod>2022-01-01</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/eleventy/</loc>
+    <loc>https://comdev.com.ua/posts/eleventy/</loc>
     <lastmod>2022-04-15</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/project/</loc>
+    <loc>https://comdev.com.ua/posts/project/</loc>
     <lastmod>2022-04-15</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/staticsitegenerator/</loc>
+    <loc>https://comdev.com.ua/posts/staticsitegenerator/</loc>
     <lastmod>2022-04-15</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/template-1/</loc>
+    <loc>https://comdev.com.ua/posts/template-1/</loc>
     <lastmod>2022-04-15</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/template/</loc>
+    <loc>https://comdev.com.ua/posts/template/</loc>
     <lastmod>2022-04-15</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/about/</loc>
+    <loc>https://comdev.com.ua/about/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/</loc>
+    <loc>https://comdev.com.ua/posts/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/</loc>
+    <loc>https://comdev.com.ua/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/page-list/</loc>
+    <loc>https://comdev.com.ua/page-list/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/</loc>
+    <loc>https://comdev.com.ua/tags/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/eleventy/</loc>
+    <loc>https://comdev.com.ua/tags/eleventy/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/11ty/</loc>
+    <loc>https://comdev.com.ua/tags/11ty/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/static-site-generator/</loc>
+    <loc>https://comdev.com.ua/tags/static-site-generator/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/template/</loc>
+    <loc>https://comdev.com.ua/tags/template/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/themes/</loc>
+    <loc>https://comdev.com.ua/tags/themes/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/seo/</loc>
+    <loc>https://comdev.com.ua/tags/seo/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/source-code/</loc>
+    <loc>https://comdev.com.ua/tags/source-code/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/project/</loc>
+    <loc>https://comdev.com.ua/tags/tema/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/tema/</loc>
+    <loc>https://comdev.com.ua/tags/website/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/tags/website/</loc>
+    <loc>https://comdev.com.ua/tags/project/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/articlseo/</loc>
+    <loc>https://comdev.com.ua/posts/articlseo/</loc>
     <lastmod>2023-07-26</lastmod>
   </url>
   
   <url>
-    <loc>https://thisis11ty.netlify.app/posts/article-seo-gpt/</loc>
+    <loc>https://comdev.com.ua/posts/article-seo-gpt/</loc>
     <lastmod>2023-07-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://comdev.com.ua/posts/tutor/</loc>
+    <lastmod>2023-07-31</lastmod>
   </url>
 </urlset>
