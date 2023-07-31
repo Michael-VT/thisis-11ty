@@ -2,7 +2,7 @@
 title: Знакомство с Eleventy (11ty)
 description: Простая и мощная система статических сайтов Eleventy (11ty) - это современная система для генерации статических сайтов.
 date: 2023-07-31
-cover: https://comdev.com.ua/tutor
+cover: https://comdev.com.ua/posts/tutor
 tag:
 - eleventy
 - 11ty

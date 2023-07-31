@@ -14,9 +14,9 @@
   },
   "nav": {
     "menu2": "Tutor",
-    "url2": "https://comdev.com.ua/tutor",
+    "url2": "https://comdev.com.ua/posts/tutor",
     "menu3": "The same",
-    "url3": "https://comdev.com.ua/tutor"
+    "url3": "https://comdev.com.ua/posts/tutor"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
