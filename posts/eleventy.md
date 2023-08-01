@@ -28,3 +28,5 @@ Tidak perlu ribet lagi akan integrasi database, dan bekerja dengan markdown file
 Dan saat nya kini kamu update serta upgrade website mu dan beralih ke [eleventy 11ty](https://11ty.dev/) untuk solusi terbaik bagi situs mu.
 
 If you need built powerfull website with eleventy 11ty so [hire me →](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
+
+[Возврат на главную страницу](https://comdev.com.ua/)
