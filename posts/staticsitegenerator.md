@@ -20,4 +20,4 @@ Banyak generator static site yang ada , tetapi untuk urusan kemudahan dan kebeba
 
 If you need built powerfull website with eleventy 11ty so [hire me →](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
 
-[Возврат на главную страницу](https://comdev.com.ua/)
+[Возврат на главную страницу](/)

@@ -22,4 +22,4 @@ Dan ya ini adalah tema display yang dibangun menggunakan [eleventy 11ty generato
 
 If you need built powerfull website with eleventy 11ty so [hire me →](https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll)
 
-[Возврат на главную страницу](https://comdev.com.ua/)
+[Возврат на главную страницу](/)
