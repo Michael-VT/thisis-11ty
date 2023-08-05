@@ -12,13 +12,8 @@
     "type": "git",
     "url": "git://github.com/Michael-VT/thisis-11tyt"
   },
-  "author": {
-    "name": "Creative by dre",
-    "email": "axcora@gmail.com",
-    "url": "https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll"
-  },
   "license": "MIT",
-  "homepage": "https://eleventy.web.app/",
+  "homepage": "https://comdev.com.ua",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0-canary.14",
     "@11ty/eleventy-navigation": "^0.3.3",

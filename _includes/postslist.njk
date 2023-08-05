@@ -6,7 +6,7 @@
     <small>post by {{ metadata.author.name }} on {{ post.date | readableDate }}</small>
     </p>
     <p>{{ post.data.description }} <br/>More info → <a href="{{ post.url | url }}">{{ post.data.title }}</a></p>
-    <p>Tag : 
+    <p>Теги: 
     {% for tag in post.data.tags | filterTagList %}
       {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
      <small><a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a></small>

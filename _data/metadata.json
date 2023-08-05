@@ -1,11 +1,11 @@
 {
-  "title": "Это классическая заготовка SEO",
-  "name": "Thisis",
+  "title": "Поменять",
+  "name": "Поменять",
   "googlesitevertification": "a2a59fab-f921-45a0-bb90-8ddbfe018590",
   "url": "https://comdev.com.ua/",
-  "language": "en",
+  "language": "ru",
   "cover": "img/ComDev.11ty.png",
-  "description": "Super SEO for built your site and blog with this is 11ty eleventy.",
+  "description": "Поменять",
   "feed": {
     "subtitle": "Super SEO for built your site and blog with this is 11ty eleventy.",
     "filename": "feed.xml",
@@ -14,9 +14,7 @@
   },
   "nav": {
     "menu2": "Tutor",
-    "url2": "posts/tutor",
-    "menu3": "Totor",
-    "url3": "posts/tutor"
+    "url2": "posts/tutor"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
