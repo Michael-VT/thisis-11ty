@@ -4,7 +4,7 @@
   "language": "ru",
   "home_page_url": "https://comdev.com.ua/",
   "feed_url": "https://example.com/feed/feed.json",
-  "description": "Статйи рассказывающие про интернет вещи и системы обеспечивающие комфортную жизнь.",
+  "description": "Статьи рассказывающие про интернет вещи и системы обеспечивающие комфортную жизнь.",
   "author": {
     "name": "thisis11ty",
     "url": "https://eleventy.web.app/"
