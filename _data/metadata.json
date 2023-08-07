@@ -1,13 +1,13 @@
 {
-  "title": "Поменять",
-  "name": "Поменять",
+  "title": "Набор статей про интернет вещи и системы комфорта",
+  "name": "Основная",
   "googlesitevertification": "a2a59fab-f921-45a0-bb90-8ddbfe018590",
   "url": "https://comdev.com.ua/",
   "language": "ru",
   "cover": "img/ComDev.11ty.png",
-  "description": "Поменять",
+  "description": "Статйи рассказывающие про интернет вещи и системы обеспечивающие комфортную жизнь.",
   "feed": {
-    "subtitle": "Super SEO for built your site and blog with this is 11ty eleventy.",
+    "subtitle": "Набор статей об интернет вещах и управлении комфортом.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://comdev.com.ua/"

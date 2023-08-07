@@ -3,7 +3,7 @@ title: Знакомство с Eleventy (11ty)
 description: Простая, современная и мощная система генерации статических сайтов Eleventy (11ty).
 date: 2023-08-02
 cover: https://comdev.com.ua/posts/tutor
-tag:
+tagы:
 - eleventy
 - 11ty
 ---

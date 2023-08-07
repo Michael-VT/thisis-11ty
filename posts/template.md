@@ -15,6 +15,8 @@ tags:
   - Source Code
 layout: layouts/post.njk
 ---
+# {{ title }}
+### {{description}}
 
 This is a display [theme template](https://11ty.dev/) that was built using the latest and modern eleventy 11ty site static generator, with a clean white design that will be better for the reader's eyes, and of course you can also download this theme on the github repo or you can also choose various themes on the eleventy website for various alternatives.
 
