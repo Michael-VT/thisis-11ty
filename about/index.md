@@ -8,4 +8,4 @@ eleventyNavigation:
 ---
 
 ![eleventy blog seo template](https://comdev.com.ua/img/webcepat.png)
-Об интересных идеях и 
+Об интересных идеях. 
