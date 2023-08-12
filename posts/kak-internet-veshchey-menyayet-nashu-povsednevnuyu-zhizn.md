@@ -27,9 +27,8 @@ tags:
 
 Таким образом, [интернет вещей](/) не только меняет нашу повседневную жизнь, но и открывает новые горизонты для развития. С учетом растущей роли [IoT](/), мы можем ожидать, что в будущем это будет одним из ключевых движущих факторов, формирующих современное общество.
 
-Дата публикации: 10 августа 2023
 
-### Tag data
+### Tag data ### 
 
 <h2>{{ year }}</h2>
 
@@ -50,3 +49,12 @@ tags:
     *** (three asterisks)
     ___ (three underscores).
 
+<h4>Дата публикации: 10 августа 2023</h4>
+<!-- sort(arr=[], reverse=false, caseSens=false, attr=undefined) -->
+<ol>
+{% for tag in collections.tagList | sort %}
+<li>  {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="tag">{{ tag | title }}</a>
+  </li>
+{% endfor %}
+</ol>
