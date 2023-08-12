@@ -1,6 +1,6 @@
 ---
-title: Один из разыёрнытых обзоров IoT в статьях
-description: Это обзор различных направленй и тем в области IoT и AI.
+title: 'Наьор развёрнытых обзоров IoT в статьях'
+description: 'Это обзор различных направленй и тем в области IoT и AI.'
 date: 2022-08-08
 cover: https://comdev.com.ua/img/ComDev.11ty.png
 tags:
