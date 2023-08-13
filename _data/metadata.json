@@ -21,8 +21,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "thisis11ty",
-    "email": "axcora@gmail.com",
-    "url": "https://eleventy.web.app/"
+    "name": "Михаил Титов",
+    "email": "m.v.titov@gmail.com",
+    "url": "https://comdev.com.ua/"
   }
 }

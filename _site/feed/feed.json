@@ -6,8 +6,8 @@
   "feed_url": "https://example.com/feed/feed.json",
   "description": "Статьи рассказывающие про интернет вещи и системы обеспечивающие комфортную жизнь.",
   "author": {
-    "name": "thisis11ty",
-    "url": "https://eleventy.web.app/"
+    "name": "Михаил Титов",
+    "url": "https://comdev.com.ua/"
   },
   "items": [{
       "id": "https://comdev.com.ua/posts/smart-goroda-sozdanie-infrastruktury-dlya-komfortnoy-i-ekologicheski-chistoy-zhizni/",

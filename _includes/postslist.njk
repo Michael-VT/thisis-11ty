@@ -3,9 +3,9 @@
   <div class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
     <h3><a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h3>
     <p class="text-secondary" datetime="{{ post.date | htmlDateString }}">
-    <small>post by {{ metadata.author.name }} on {{ post.date | readableDate }}</small>
+    <small>Статья от {{ metadata.author.name }} от {{ post.date | readableDate }}</small>
     </p>
-    <p>{{ post.data.description }} <br/>More info → <a href="{{ post.url | url }}">{{ post.data.title }}</a></p>
+    <p>{{ post.data.description }} <br/>Больше информации → <a href="{{ post.url | url }}">{{ post.data.title }}</a></p>
     <p>Теги: 
     {% for tag in post.data.tags | filterTagList %}
       {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
