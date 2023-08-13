@@ -1,7 +1,7 @@
 ---
 title: About This is
 templateClass: tmpl-post
-cover: https://comdev.com.ua/img/webcepat.png
+cover: https://comdev.com.ua/img/ComDev.11ty.png
 eleventyNavigation:
   key: О сайте
   order: 3
