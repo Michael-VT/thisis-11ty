@@ -1,9 +1,8 @@
 ---
 title: "Здравоохранение в мире IoT: новые технологии, спасающие жизни"
-linkname: "Zdravookhranenie-v-mire-IoT"
 description: "Как интернет вещей изменяет сферу здравоохранения, спасая жизни пациентов и улучшая качество медицинской помощи."
 date: "2023-08-12"
-cover:: https://comdev.com.ua/img/ComDev.11ty.png
+cover: https://comdev.com.ua/img/ComDev.11ty.png
 tags:
  - IoT
  - Здоровье
