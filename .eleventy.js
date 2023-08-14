@@ -7,6 +7,18 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 
 module.exports = function(eleventyConfig) {
+  const markdownItOptions = {
+    html: true,
+  }
+  const markdownItAnchorOptions = {
+    permalink: true,
+  }
+  const markdownLib = markdownIt(markdownItOptions).use(
+    markdownItAnchor,
+    markdownItAnchorOptions
+  )
+
+
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
@@ -64,7 +76,8 @@ module.exports = function(eleventyConfig) {
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
+    typographer: true
   }).use(markdownItAnchor, {
     permalink: true,
     permalinkClass: "direct-link",
