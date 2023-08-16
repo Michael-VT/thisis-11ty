@@ -1,11 +1,17 @@
 ---
 title: About This is
 templateClass: tmpl-post
-cover: https://comdev.com.ua/img/ComDev.11ty.png
+cover: img/ComDev.11ty.png
 eleventyNavigation:
   key: О сайте
   order: 3
 ---
 
-![eleventy blog seo template](https://comdev.com.ua/img/webcepat.png)
+{% if variable is defined %}
+    value of variable: {{ variable }}
+{% else %}
+    variable is not defined
+{% endif %}
+
+![ComDev blog](img/ComDev.11ty.png)
 Об интересных идеях. 

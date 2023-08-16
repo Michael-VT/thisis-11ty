@@ -3,7 +3,7 @@ title: "Умная сельская местность: как сельское 
 linkname: "umnaya-selskaya-mestnost-selkoe-hozyaystvo-vnedryaet-iot"
 description: "Исследование влияния IoT на сельское хозяйство и перспективы умной сельской местности."
 date: 2023-08-12
-cover: https://comdev.com.ua/img/ComDev.11ty.png
+cover: img/ComDev.11ty.png
 tags: 
  - IoT
  - Сельское хозяйство
@@ -16,6 +16,8 @@ tags:
  - Агротехнологии
  - Эффективное земледелие
 ---
+# {{ title }}
+### {{description}}
 
 ### Умная сельская местность: как сельское хозяйство внедряет IoT
 

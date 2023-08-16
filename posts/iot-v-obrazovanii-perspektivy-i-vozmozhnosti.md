@@ -1,9 +1,8 @@
 ---
 title: "IoT в образовании: перспективы и возможности"
-linkname: "iot-v-obrazovanii-perspektivy-i-vozmozhnosti"
 description: "Рассмотрим, как технологии интернета вещей преобразуют образовательный процесс, предоставляя новые перспективы и возможности."
 date: 2023-08-12
-cover: https://comdev.com.ua/img/ComDev.11ty.png
+cover: img/ComDev.11ty.png
 tags:
   - IoT
   - Образование

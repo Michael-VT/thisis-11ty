@@ -1,9 +1,8 @@
 ---
 title: "IoT в бизнесе: новые пути оптимизации и роста"
-linkname: "iot-v-biznese-novye-puti-optimizacii-i-rosta"
-description: Как технологии IoT преображают бизнес, открывая новые возможности для оптимизации и роста.
+description: "Как технологии IoT преображают бизнес, открывая новые возможности для оптимизации и роста."
 date: 2023-08-12
-cover: https://comdev.com.ua/img/IoTBusiness.jpg
+cover: img/IoTBusiness.jpg
 tags:
   - IoT
   - Бизнес
@@ -12,6 +11,10 @@ tags:
   - Технологический прогресс
   - Инновации
 ---
+# {{ title }}
+### {{description}}
+
+{{ 1 + 1 }}
 
 # IoT в бизнесе: новые пути оптимизации и роста
 

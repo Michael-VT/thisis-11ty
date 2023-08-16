@@ -1,9 +1,8 @@
 ---
 title: "Промышленный IoT: революция производства и мониторинга"
-linkname: promyshlennyy-iot-revolyutsiya-proizvodstva-i-monitoring
-description: Как технологии IoT преобразуют производственные процессы и улучшают мониторинг в промышленности.
+description: "Как технологии IoT преобразуют производственные процессы и улучшают мониторинг в промышленности."
 date: 2023-08-12
-cover: https://comdev.com.ua/img/ComDev.11ty.png
+cover: img/ComDev.11ty.png
 tags:
  - IoT
  - Промышленность
