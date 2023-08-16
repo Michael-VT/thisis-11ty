@@ -18,7 +18,6 @@ module.exports = function(eleventyConfig) {
     markdownItAnchorOptions
   )
 
-
   // Add plugins
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
@@ -81,7 +80,7 @@ module.exports = function(eleventyConfig) {
   }).use(markdownItAnchor, {
     permalink: true,
     permalinkClass: "direct-link",
-    permalinkSymbol: "_"
+    permalinkSymbol: "¶"
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
 

@@ -7,6 +7,9 @@ eleventyNavigation:
 ---
 
 <h1>Статьи в блоге об IoT с ИИ</h1>
-
+{{ username }}
+{{ foo }}
+{{ foo.bar }}
+{{ foo.bar.baz }}
 {% set postslist = collections.posts %}
 {% include "postslist.njk" %}
