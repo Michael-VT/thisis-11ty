@@ -7,11 +7,6 @@ eleventyNavigation:
   order: 3
 ---
 
-{% if variable is defined %}
-    value of variable: {{ variable }}
-{% else %}
-    variable is not defined
-{% endif %}
 
 ![ComDev blog](img/ComDev.11ty.png)
-Об интересных идеях. 
+Подборка интересных идеях. 
