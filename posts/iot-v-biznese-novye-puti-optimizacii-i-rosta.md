@@ -13,13 +13,6 @@ tags:
 ---
 # {{ title }}
 ### {{description}}
-{% set val=('tuple', 'of', 'values') %}
-{% set var={'dict': 'of', 'key': 'and', 'value': 'pairs'} %}
-<ul>
-{% for href, caption in var %}
-    <li><a href="{{ caption  }}">{{ href }}</a></li>
-{% endfor %}
-</ul>
 
 # IoT в бизнесе: новые пути оптимизации и роста
 
