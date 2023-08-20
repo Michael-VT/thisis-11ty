@@ -101,6 +101,12 @@ module.exports = function(eleventyConfig) {
     ui: false,
     ghostMode: false
   });
+  
+  const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+
+  module.exports = function (eleventyConfig) {
+    eleventyConfig.addPlugin(eleventyNavigationPlugin);
+  };
 
   return {
     // Control which files Eleventy will process
