@@ -178,111 +178,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/transport/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Транспорт”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/avtonomnye-transportnye-sredstva/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Автономные транспортные средства”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/mobilnost/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Мобильность”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/tehnologicheskij-progress/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Технологический прогресс”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/budushee/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Будущее”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/bezopasnost-iot/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Безопасность IoT”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/zashita-dannyh/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Защита данных”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/lichnaya-informaciya/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Личная информация”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/kiberbezopasnost/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Кибербезопасность”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/privatnost/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Приватность”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/kiberugrozy/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Киберугрозы”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/shifrovanie/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Шифрование”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/internet-veshej/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Интернет вещей”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/innovacii/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Инновации”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/kiberzashita/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Киберзащита”</title>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/avtomatizaciya/</loc>
     <lastmod>2023-07-25</lastmod>
     <title>Tagged “Автоматизация”</title>
@@ -412,6 +307,111 @@
     <loc>https://comdev.com.ua/tags/innovacii-v-domashnej-avtomatizacii/</loc>
     <lastmod>2023-07-25</lastmod>
     <title>Tagged “Инновации в домашней автоматизации”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/bezopasnost-iot/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Безопасность IoT”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/zashita-dannyh/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Защита данных”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/lichnaya-informaciya/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Личная информация”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/kiberbezopasnost/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Кибербезопасность”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/privatnost/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Приватность”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/kiberugrozy/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Киберугрозы”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/shifrovanie/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Шифрование”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/internet-veshej/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Интернет вещей”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/tehnologicheskij-progress/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Технологический прогресс”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/innovacii/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Инновации”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/kiberzashita/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Киберзащита”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/transport/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Транспорт”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/avtonomnye-transportnye-sredstva/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Автономные транспортные средства”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/mobilnost/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Мобильность”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/budushee/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Будущее”</title>
   </url>
   
   
@@ -668,27 +668,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/biznes/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Бизнес”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/optimizaciya/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Оптимизация”</title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/rost/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Рост”</title>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/tehnologii/</loc>
     <lastmod>2023-07-25</lastmod>
     <title>Tagged “Технологии”</title>
@@ -769,6 +748,27 @@
     <loc>https://comdev.com.ua/tags/razvitie-iot-v-biznese/</loc>
     <lastmod>2023-07-25</lastmod>
     <title>Tagged “Развитие IoT в бизнесе”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/biznes/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Бизнес”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/optimizaciya/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Оптимизация”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/rost/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Рост”</title>
   </url>
   
   
@@ -1081,13 +1081,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/razvitie-iot/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Развитие IoT”</title>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/vzaimosvyazannye-ustrojstva/</loc>
     <lastmod>2023-07-25</lastmod>
     <title>Tagged “Взаимосвязанные устройства”</title>
@@ -1105,6 +1098,20 @@
     <loc>https://comdev.com.ua/tags/svyazannye-ekosistemy/</loc>
     <lastmod>2023-07-25</lastmod>
     <title>Tagged “Связанные экосистемы”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/razvitie-iot/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Развитие IoT”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/obzory/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Обзоры”</title>
   </url>
   
   
@@ -1179,9 +1186,23 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/obzory/</loc>
+    <loc>https://comdev.com.ua/tags/kontrol-kachestva/</loc>
     <lastmod>2023-07-25</lastmod>
-    <title>Tagged “Обзоры”</title>
+    <title>Tagged “Контроль качества”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/vozduh/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Воздух”</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/voda/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title>Tagged “Вода”</title>
   </url>
   
   
@@ -1329,5 +1350,19 @@
     <loc>https://comdev.com.ua/posts/umnye-gadzhety-innovatsii-kotorye-delayut-nashu-zhizn-udobnee-i-interesnee/</loc>
     <lastmod>2023-08-12</lastmod>
     <title>Умные гаджеты: инновации, которые делают нашу жизнь удобнее и интереснее</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/posts/umnye-datchiki-i-iot-kak-oni-pomogayut-nam-kontrolirovat-kachestvo-vozduha-i-vody/</loc>
+    <lastmod>2023-08-15</lastmod>
+    <title>Умные датчики и IoT: как они помогают нам контролировать качество воздуха и воды</title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/posts/iot-i-umnye-ustroystva-dlya-zdorovogo-sna/</loc>
+    <lastmod>2023-08-20</lastmod>
+    <title></title>
   </url>
 </urlset>
