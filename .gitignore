@@ -2,4 +2,5 @@ _site/
 node_modules/
 package-lock.json
 mytasks/
+mytasks/tasks.md
 .venv/
