@@ -3,7 +3,7 @@ title: "Безопасность в интернете вещей: защита 
 linkname: bezopasnost-v-internete-veshej-zashita-dannyh-i-lichnoj-informacii
 description: "Рассмотрим важность обеспечения безопасности в интернете вещей и методы защиты данных и личной информации."
 date: 2023-08-12
-cover: /img/ComDev.11ty.png
+cover: img/ComDev.11ty.png
 tags:
 - IoT
 - Безопасность IoT

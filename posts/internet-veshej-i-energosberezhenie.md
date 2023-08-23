@@ -3,7 +3,7 @@ title: "Интернет вещей и энергосбережение: как 
 linkname: "internet-veshej-i-energosberezhenie"
 description: "Повышение эффективности и устойчивость с помощью IoT"
 date: 2023-08-12
-cover: /img/ComDev.11ty.png
+cover: img/ComDev.11ty.png
 
 tags:
 - Интернет вещей

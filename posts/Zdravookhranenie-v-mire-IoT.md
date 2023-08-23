@@ -13,6 +13,7 @@ tags:
 ---
 # {{ title }}
 ### {{description}}
+### {{date}}
 
 ## Введение
 

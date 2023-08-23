@@ -3,7 +3,7 @@ title: "Интернет вещей и умные устройства для з
 linkname: "iot-i-umnye-ustroystva-dlya-zdorovogo-sna"
 description: "Узнайте, как технологии интернета вещей (IoT) помогают улучшить качество сна и поддерживать здоровый режим отдыха."
 date: 2023-08-12
-cover: /img/ComDev.11ty.png
+cover: img/ComDev.11ty.png
 tags:
  - IoT
  - Здоровье

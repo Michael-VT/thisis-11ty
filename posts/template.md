@@ -2,7 +2,7 @@
 title: "Набор развёрнутых обзоров IoT в статьях"
 description: "Это обзор различных направленй и тем в области IoT и AI."
 date: 2023-08-12
-cover: /img/ComDev.11ty.png
+cover: img/ComDev.11ty.png
 tags:
  - Интернет вещей
  - Обзоры
