@@ -56,7 +56,17 @@ module.exports = function(eleventyConfig) {
     // should match the list in tags.njk
     return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
   })
+  // Create a collection from a folder
+  // https://michelenasti.com/some-tricks-for-11ty-that-i-learned-along-the-way/
+  eleventyConfig.addFilter('sortObjectByKey', (collection) => {
+    const entries = Object.entries(collection);
+    const toReturn = entries.sort((entry1, entry2) => {
+      if (entry1[0] <= entry2[0]) return -1;
+      else return 1;
 
+    });
+    return toReturn;
+  });
   // Create an array of all tags
   eleventyConfig.addCollection("tagList", function(collection) {
     let tagSet = new Set();
