@@ -1,6 +1,5 @@
 ---
 title: "Автономные транспортные средства и IoT"
-linkname: avtonomnye-transportnye-sredstva-i-iot
 description: "Обзор влияния IoT на развитие автономных транспортных средств и их будущее в мире мобильности."
 date: 2023-08-27
 cover: /img/ComDev.11ty.png
@@ -11,6 +10,7 @@ tags:
  - Автономные транспортные средства
  - Мобильность
 ---
+
 # {{ title }}
 ### {{description}}
 ### {{date}}

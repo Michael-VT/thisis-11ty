@@ -45,48 +45,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/iot/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/zdorove/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/tehnologii-zdorovya/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/telemedicina/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/medicinskie-innovacii/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/umnye-ustrojstva/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/teplyj-pol-elektricheskij/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
@@ -178,7 +136,42 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/eplyj-pol-pod-laminat/</loc>
+    <loc>https://comdev.com.ua/tags/iot/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/zdorove/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/tehnologii-zdorovya/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/telemedicina/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/medicinskie-innovacii/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/umnye-ustrojstva/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
   </url>
@@ -318,41 +311,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/transport/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/avtonomnye-transportnye-sredstva/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/mobilnost/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/tehnologicheskij-progress/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/budushee/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/bezopasnost-iot/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
@@ -409,6 +367,13 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/tehnologicheskij-progress/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/innovacii/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
@@ -423,35 +388,35 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/vstraivaemye-sistemy/</loc>
+    <loc>https://comdev.com.ua/tags/eplyj-pol-pod-laminat/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
   </url>
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/tehnologii-budushego/</loc>
+    <loc>https://comdev.com.ua/tags/transport/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
   </url>
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/umnye-tehnologii/</loc>
+    <loc>https://comdev.com.ua/tags/avtonomnye-transportnye-sredstva/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
   </url>
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/obrazovanie/</loc>
+    <loc>https://comdev.com.ua/tags/mobilnost/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
   </url>
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/promyshlennyj-iot/</loc>
+    <loc>https://comdev.com.ua/tags/budushee/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
   </url>
@@ -507,6 +472,13 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/umnye-tehnologii/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/energopotreblenie/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
@@ -550,6 +522,34 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/avtomaticheskoe-upravlenie/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/vstraivaemye-sistemy/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/tehnologii-budushego/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/obrazovanie/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/promyshlennyj-iot/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
   </url>
@@ -753,6 +753,20 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/rost/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/intellektualnye-sistemy/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/budushee-transporta/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
   </url>
@@ -1018,6 +1032,41 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/obzory/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/razvitie-iot/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/vzaimosvyazannye-ustrojstva/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/integraciya-ustrojstv/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/svyazannye-ekosistemy/</loc>
+    <lastmod>2023-07-25</lastmod>
+    <title></title>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/smart-goroda/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
@@ -1131,41 +1180,6 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/tehnologicheskoe-razvitie-gorodskoj-sredy/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/vzaimosvyazannye-ustrojstva/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/integraciya-ustrojstv/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/svyazannye-ekosistemy/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/razvitie-iot/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/obzory/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
   </url>
@@ -1299,20 +1313,6 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/integraciya-iot/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/intellektualnye-sistemy/</loc>
-    <lastmod>2023-07-25</lastmod>
-    <title></title>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/budushee-transporta/</loc>
     <lastmod>2023-07-25</lastmod>
     <title></title>
   </url>
