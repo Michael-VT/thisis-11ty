@@ -8,5 +8,5 @@ eleventyNavigation:
 ---
 
 
-![ComDev blog](img/ComDev.11ty.png)
-Подборка интересных идеях. 
+![Home](https://comdev.com.ua/)
+Подборка интересных идей. 
