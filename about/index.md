@@ -9,4 +9,4 @@ eleventyNavigation:
 
 
 ![Home](https://comdev.com.ua/)
-Подборка интересных идей. 
+[Подборка интересных идей IoT и AI.](https://comdev.com.ua/)
