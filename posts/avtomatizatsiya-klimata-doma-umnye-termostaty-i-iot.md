@@ -2,7 +2,7 @@
 title: "Автоматизация климата дома: умные термостаты и IoT"
 linkname: avtomatizatsiya-klimata-doma-umnye-termostaty-i-iot
 description: "Рассмотрим преимущества использования умных термостатов и технологии IoT в автоматизации климата дома."
-date: 2023-08-26
+date: 2023-09-02
 cover: /img/ComDev.11ty.png
 tags: 
  - автоматизация-климата
