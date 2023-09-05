@@ -483,6 +483,41 @@
 	</entry>
 	
 	<entry>
+		<title>Безопасность в IoT: как защитить свои умные устройства от хакеров</title>
+		<link href="https://comdev.com.ua/posts/bezopasnost-v-iot-kak-zashchitit-svoi-umnye-ustroystva-ot-khakerov/"/>
+		<updated>2023-08-26T00:00:00Z</updated>
+		<id>https://comdev.com.ua/posts/bezopasnost-v-iot-kak-zashchitit-svoi-umnye-ustroystva-ot-khakerov/</id>
+		<content type="html">&lt;h1 id=&quot;%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2-iot%3A-%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B8%D1%82%D1%8C-%D1%81%D0%B2%D0%BE%D0%B8-%D1%83%D0%BC%D0%BD%D1%8B%D0%B5-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-%D0%BE%D1%82-%D1%85%D0%B0%D0%BA%D0%B5%D1%80%D0%BE%D0%B2&quot; tabindex=&quot;-1&quot;&gt;Безопасность в IoT: как защитить свои умные устройства от хакеров &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/bezopasnost-v-iot-kak-zashchitit-svoi-umnye-ustroystva-ot-khakerov/#%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B2-iot%3A-%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B8%D1%82%D1%8C-%D1%81%D0%B2%D0%BE%D0%B8-%D1%83%D0%BC%D0%BD%D1%8B%D0%B5-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0-%D0%BE%D1%82-%D1%85%D0%B0%D0%BA%D0%B5%D1%80%D0%BE%D0%B2&quot;&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;h3 id=&quot;%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8%2C-%D1%81%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%81-%D1%83%D0%BC%D0%BD%D1%8B%D0%BC%D0%B8-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%D0%BC%D0%B8%2C-%D0%B8-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%B2-%D0%B8%D1%85-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B-%D0%BE%D1%82-%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D1%85-%D1%83%D0%B3%D1%80%D0%BE%D0%B7.&quot; tabindex=&quot;-1&quot;&gt;Исследование проблем безопасности, связанных с умными устройствами, и методов их защиты от внешних угроз. &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/bezopasnost-v-iot-kak-zashchitit-svoi-umnye-ustroystva-ot-khakerov/#%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8%2C-%D1%81%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%81-%D1%83%D0%BC%D0%BD%D1%8B%D0%BC%D0%B8-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%D0%BC%D0%B8%2C-%D0%B8-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%B2-%D0%B8%D1%85-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%8B-%D0%BE%D1%82-%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D1%85-%D1%83%D0%B3%D1%80%D0%BE%D0%B7.&quot;&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;sat-aug-26-2023-01%3A00%3A00-gmt%2B0100-(western-european-summer-time)&quot; tabindex=&quot;-1&quot;&gt;Sat Aug 26 2023 01:00:00 GMT+0100 (Western European Summer Time) &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/bezopasnost-v-iot-kak-zashchitit-svoi-umnye-ustroystva-ot-khakerov/#sat-aug-26-2023-01%3A00%3A00-gmt%2B0100-(western-european-summer-time)&quot;&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;h1 id=&quot;%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&quot; tabindex=&quot;-1&quot;&gt;Введение &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/bezopasnost-v-iot-kak-zashchitit-svoi-umnye-ustroystva-ot-khakerov/#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&quot;&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;В современном мире умные устройства становятся все более популярными. Однако, вместе с ростом их числа увеличивается и количество &lt;strong&gt;&lt;a href=&quot;https://comdev.com.ua/&quot;&gt;киберугроз&lt;/a&gt;&lt;/strong&gt;. Как защитить свои умные устройства и сохранить свою информацию в безопасности?&lt;/p&gt;
+&lt;h2 id=&quot;%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D1%8B-%D0%B4%D0%BB%D1%8F-iot-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2&quot; tabindex=&quot;-1&quot;&gt;Основные угрозы для IoT устройств &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/bezopasnost-v-iot-kak-zashchitit-svoi-umnye-ustroystva-ot-khakerov/#%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D1%8B-%D0%B4%D0%BB%D1%8F-iot-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Хакеры и киберпреступники не дремлют, исследуя новые методы атак на умные устройства. Среди самых распространенных угроз:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://comdev.com.ua/&quot;&gt;Защита&lt;/a&gt;&lt;/strong&gt; от несанкционированного доступа: Хакеры могут использовать уязвимости в безопасности для получения контроля над устройством.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Перехват данных:&lt;/strong&gt; Через нешифрованные соединения злоумышленники могут “подслушать” вашу информацию.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DDoS-атаки:&lt;/strong&gt; Ваши устройства могут быть использованы в качестве “зомби” в больших сетевых атаках.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D1%8C-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%83-%D1%81%D0%B2%D0%BE%D0%B8%D1%85-%D1%83%D0%BC%D0%BD%D1%8B%D1%85-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%3F&quot; tabindex=&quot;-1&quot;&gt;Как усилить защиту своих умных устройств? &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/bezopasnost-v-iot-kak-zashchitit-svoi-umnye-ustroystva-ot-khakerov/#%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D1%8C-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D1%83-%D1%81%D0%B2%D0%BE%D0%B8%D1%85-%D1%83%D0%BC%D0%BD%D1%8B%D1%85-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%3F&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Для того чтобы защитить свои умные устройства, следует придерживаться следующих рекомендаций:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Обновляйте прошивку:&lt;/strong&gt; Производители регулярно выпускают обновления, устраняющие уязвимости в безопасности.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Изменяйте стандартные пароли:&lt;/strong&gt; Никогда не оставляйте заводские настройки безопасности без изменений.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Используйте сетевую фильтрацию:&lt;/strong&gt; Ограничьте доступ к устройству только с определенных IP-адресов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Включите шифрование:&lt;/strong&gt; Всегда используйте шифрованные соединения для передачи и хранения данных.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&quot; tabindex=&quot;-1&quot;&gt;Заключение &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/bezopasnost-v-iot-kak-zashchitit-svoi-umnye-ustroystva-ot-khakerov/#%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;В эпоху цифровой технологии &lt;strong&gt;&lt;a href=&quot;https://comdev.com.ua/&quot;&gt;безопасность&lt;/a&gt;&lt;/strong&gt; не должна быть уделом только профессионалов. Каждый пользователь умных устройств должен осознавать потенциальные угрозы и знать, как себя защитить.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://comdev.com.ua/&quot;&gt;IMG&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Умные устройства приносят удобство, но без соответствующих мер безопасности могут стать уязвимой точкой в вашем доме.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://comdev.com.ua/&quot;&gt;Возврат на главную страницу&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>IoT и умные системы ухода за домашними животными: забота и комфорт для наших питомцев</title>
 		<link href="https://comdev.com.ua/posts/IoT-umnye-sistemy-uhoda-za-domashnimi-jivotnymi/"/>
 		<updated>2023-08-26T00:00:00Z</updated>
