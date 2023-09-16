@@ -39,25 +39,13 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/iot/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/umnye-sistemy/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/uhod-za-domashnimi-zhivotnymi/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/umnye-chasy/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/iot/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -105,6 +93,18 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/umnye-sistemy/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/uhod-za-domashnimi-zhivotnymi/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/zdorove/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -147,7 +147,7 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/eplyj-pol-pod-laminat/</loc>
+    <loc>https://comdev.com.ua/tags/teplyj-pol-pod-laminat/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -213,7 +213,7 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/teplyj-pol-pod-laminat/</loc>
+    <loc>https://comdev.com.ua/tags/eplyj-pol-pod-laminat/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1167,96 +1167,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/ponimanie-okruzhayushego-mira/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/monitoring-sredy/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/sbor-dannyh/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/analiz-okruzhayushej-sredy/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/internet-veshej-v-monitoringe/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/tehnologicheskij-progress-i-monitoring/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/umnyj-gorod-i-monitoring/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/innovacii-v-monitoringe/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/vliyanie-iot-na-monitoring/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/tochnye-izmereniya-v-sensornyh-setyah/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/besprovodnye-sensory/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/umnye-resheniya-dlya-monitoringa/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/effektivnyj-monitoring-cherez-iot/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/seti-sbora-dannyh/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/transformaciya-monitoringa-s-pomoshyu-iot/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/smart-goroda/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1353,6 +1263,96 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/ponimanie-okruzhayushego-mira/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/monitoring-sredy/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/sbor-dannyh/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/analiz-okruzhayushej-sredy/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/internet-veshej-v-monitoringe/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/tehnologicheskij-progress-i-monitoring/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/umnyj-gorod-i-monitoring/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/innovacii-v-monitoringe/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/vliyanie-iot-na-monitoring/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/tochnye-izmereniya-v-sensornyh-setyah/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/besprovodnye-sensory/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/umnye-resheniya-dlya-monitoringa/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/effektivnyj-monitoring-cherez-iot/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/seti-sbora-dannyh/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/transformaciya-monitoringa-s-pomoshyu-iot/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/umnye-igrushki/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1371,6 +1371,12 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/razvitie-iot/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/vzaimosvyazannye-ustrojstva/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1384,12 +1390,6 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/svyazannye-ekosistemy/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/razvitie-iot/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1575,6 +1575,36 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/sad/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/ogorod/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/avtomatizirovannyj-poliv/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/monitoring-rastenij/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/iot-v-sadovodstve/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/umnye-sistemy-bezopasnosti/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1606,36 +1636,6 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/integraciya-iot/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/sad/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/ogorod/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/avtomatizirovannyj-poliv/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/monitoring-rastenij/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/iot-v-sadovodstve/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1738,6 +1738,24 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/povsednevnyj-opyt/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/revolyuciya/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/golosovoe-upravlenie/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/ii-assistenty/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -2105,5 +2123,17 @@
   <url>
     <loc>https://comdev.com.ua/posts/iot-v-gostepriimstve-umnye-oteli-i-avtomatizirovannye-servisy-dlya-gostey/</loc>
     <lastmod>2023-09-14</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/posts/II-and-IoT-revolyutsiya-v-upravlenii-umnym-domom/</loc>
+    <lastmod>2023-09-16</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/posts/Golosovoe-upravlenie-domom-II-assistenty-na-strazhe-komforta/</loc>
+    <lastmod>2023-09-17</lastmod>
   </url>
 </urlset>
