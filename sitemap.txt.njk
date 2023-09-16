@@ -1,0 +1,9 @@
+---
+permalink: /sitemap.txt
+eleventyExcludeFromCollections: true
+---
+{%- for page in collections.all %}
+{% set absoluteUrl %}{{ page.url | url | absoluteUrl(metadata.url) }}{% endset %}
+{% set stitle %}{{ page.data.title }}{% endset %}
+[{{ stitle }}]({{ absoluteUrl }})
+{%- endfor %}
