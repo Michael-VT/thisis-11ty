@@ -4,5 +4,5 @@ eleventyExcludeFromCollections: true
 ---
 {%- for page in collections.all %}
 {% set absoluteUrl %}{{ page.url | url | absoluteUrl(metadata.url) }}{% endset %}
-{% set stitle %}{{ page.data.title | absoluteUrl(metadata.url) }}{% endset %}
+{% set stitle %}{{ page.data.title | url(slug) }}{% endset %}
 [{{ stitle }}]({{ absoluteUrl }}){%- endfor %}
