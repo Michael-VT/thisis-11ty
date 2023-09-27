@@ -2,7 +2,7 @@
 title: "Умный дом: экономим или шикуем?"
 linkname: umnyy-dom-ekonomim-ili-shikuem
 description: "Дайте мне разобраться: инвестируем ли мы в умный дом для экономии или ради роскоши? Разберемся вместе!"
-date: 2023-09-28
+date: 2023-09-26
 cover: /img/ComDev.11ty.png
 tags:
  - Умный дом
