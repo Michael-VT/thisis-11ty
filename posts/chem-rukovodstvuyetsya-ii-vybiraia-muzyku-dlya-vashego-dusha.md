@@ -1,5 +1,4 @@
- ---
-
+---
 title: "Чем руководствуется ИИ, выбирая музыку для вашего душа?"
 linkname: chem-rukovodstvuyetsya-ii-vybiraia-muzyku-dlya-vashego-dusha
 description: "Глубокое погружение в алгоритмы и дизайн умных душевых систем."
@@ -7,11 +6,10 @@ date: 2023-09-23
 cover: /img/ComDev.11ty.png
 tags: 
  - ИИ
- - музыка
- - умные устройства
+ - Музыка
+ - Умные устройства
  - дизайн
  - IoT
-
 ---
 
 # {{ title }}
