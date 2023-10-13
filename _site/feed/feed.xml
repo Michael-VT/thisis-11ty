@@ -5,12 +5,82 @@
 	
 	<link href="https://comdev.com.ua/feed/feed.xml" rel="self"/>
 	<link href="https://comdev.com.ua/"/>
-	<updated>2023-10-12T00:00:00Z</updated>
+	<updated>2023-10-13T00:00:00Z</updated>
 	<id>https://comdev.com.ua/</id>
 	<author>
 		<name>Михаил Титов</name>
 		<email>m.v.titov@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>Защита от сбоев: архитектура надежных умных систем</title>
+		<link href="https://comdev.com.ua/posts/zashchita-ot-sboev-arhitektura-nadezhnyh-umnyh-sistem/"/>
+		<updated>2023-10-13T00:00:00Z</updated>
+		<id>https://comdev.com.ua/posts/zashchita-ot-sboev-arhitektura-nadezhnyh-umnyh-sistem/</id>
+		<content type="html">&lt;h1 id=&quot;%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BE%D1%82-%D1%81%D0%B1%D0%BE%D0%B5%D0%B2%3A-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D1%85-%D1%83%D0%BC%D0%BD%D1%8B%D1%85-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC&quot; tabindex=&quot;-1&quot;&gt;Защита от сбоев: архитектура надежных умных систем &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/zashchita-ot-sboev-arhitektura-nadezhnyh-umnyh-sistem/#%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BE%D1%82-%D1%81%D0%B1%D0%BE%D0%B5%D0%B2%3A-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D1%85-%D1%83%D0%BC%D0%BD%D1%8B%D1%85-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC&quot;&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;h3 id=&quot;%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B0%D0%B5%D0%BC%D1%81%D1%8F-%D0%B2-%D0%BC%D0%B8%D1%80-%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D1%83%D0%BC%D0%BD%D1%8B%D1%85-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%3A-%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B-%D0%BE%D1%82-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BC%D0%B0%D0%B3%D0%B0&quot; tabindex=&quot;-1&quot;&gt;Погружаемся в мир надежности и безопасности умных систем: секреты от технического мага &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/zashchita-ot-sboev-arhitektura-nadezhnyh-umnyh-sistem/#%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B0%D0%B5%D0%BC%D1%81%D1%8F-%D0%B2-%D0%BC%D0%B8%D1%80-%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D0%B8-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8-%D1%83%D0%BC%D0%BD%D1%8B%D1%85-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%3A-%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B-%D0%BE%D1%82-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BC%D0%B0%D0%B3%D0%B0&quot;&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;fri-oct-13-2023-01%3A00%3A00-gmt%2B0100-(western-european-summer-time)&quot; tabindex=&quot;-1&quot;&gt;Fri Oct 13 2023 01:00:00 GMT+0100 (Western European Summer Time) &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/zashchita-ot-sboev-arhitektura-nadezhnyh-umnyh-sistem/#fri-oct-13-2023-01%3A00%3A00-gmt%2B0100-(western-european-summer-time)&quot;&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;h1 id=&quot;%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&quot; tabindex=&quot;-1&quot;&gt;Введение &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/zashchita-ot-sboev-arhitektura-nadezhnyh-umnyh-sistem/#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&quot;&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Давайте честно: у кого из вас не было ситуации, когда ваш умный тостер пытался познакомиться с вашим умным чайником, создавая хаос на кухне? Наверное, каждый из нас хоть раз мечтал о магической палочке, которая бы исправляла все технические проблемы. Но давайте лучше поговорим о том, как строить системы так, чтобы таких “магических” моментов было как можно меньше.&lt;/p&gt;
+&lt;h2 id=&quot;%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8&quot; tabindex=&quot;-1&quot;&gt;Основы архитектуры надежности &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/zashchita-ot-sboev-arhitektura-nadezhnyh-umnyh-sistem/#%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B-%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Многоуровневая защита.&lt;/strong&gt; Это как лук: чем больше слоев, тем сложнее добраться до сердцевины. Используйте несколько уровней безопасности - от простого пароля до &lt;strong&gt;&lt;a href=&quot;https://comdev.com.ua/&quot;&gt;ИИ&lt;/a&gt;&lt;/strong&gt;, контролирующего доступ.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Резервирование.&lt;/strong&gt; Если ваша любимая кофеварка отказывается работать, всегда должна быть еще одна, готовая взять на себя эту ответственную миссию!&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D1%8B%D0%B5-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F&quot; tabindex=&quot;-1&quot;&gt;Программные решения &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/zashchita-ot-sboev-arhitektura-nadezhnyh-umnyh-sistem/#%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D1%8B%D0%B5-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Регулярное обновление.&lt;/strong&gt; Ваш умный дом – это как ваш домашний кот: ему нужны регулярные проверки и обновления, чтобы быть в тонусе.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Двухфакторная аутентификация.&lt;/strong&gt; Представьте, что ваш дом спрашивает у вас пароль и… цвет ваших носков. Звучит смешно, но такой подход удваивает вашу безопасность!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0&quot; tabindex=&quot;-1&quot;&gt;Аппаратные средства &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/zashchita-ot-sboev-arhitektura-nadezhnyh-umnyh-sistem/#%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Используйте устойчивое к взлому оборудование.&lt;/strong&gt; Нет, это не значит, что вам нужен тостер с броней. Это значит, что даже ваш умный чайник должен быть готов к хакерским атакам!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Резервное питание.&lt;/strong&gt; Потому что ваш умный дом не должен засыпать в самый неподходящий момент.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%B8-%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8&quot; tabindex=&quot;-1&quot;&gt;Защита и предосторожности &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/zashchita-ot-sboev-arhitektura-nadezhnyh-umnyh-sistem/#%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%B8-%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Никогда не забывайте: ваш умный дом – это не просто игрушка. Это ваш личный ассистент, который заботится о вашем комфорте и безопасности.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&quot; tabindex=&quot;-1&quot;&gt;Заключение &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/zashchita-ot-sboev-arhitektura-nadezhnyh-umnyh-sistem/#%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Так что, друзья, стройте свои умные системы правильно, и тогда они будут служить вам долго и верно. И, пожалуйста, убедитесь, что ваш тостер и чайник находятся в хороших отношениях!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://comdev.com.ua/&quot;&gt;Возврат на главную страницу&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Когда умный дом глючит: первая помощь</title>
+		<link href="https://comdev.com.ua/posts/kogda-umnyj-dom-gluchit-pervaya-pomoshch/"/>
+		<updated>2023-10-13T00:00:00Z</updated>
+		<id>https://comdev.com.ua/posts/kogda-umnyj-dom-gluchit-pervaya-pomoshch/</id>
+		<content type="html">&lt;h1 id=&quot;%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D0%BC-%D0%B3%D0%BB%D1%8E%D1%87%D0%B8%D1%82%3A-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C&quot; tabindex=&quot;-1&quot;&gt;Когда умный дом глючит: первая помощь &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/kogda-umnyj-dom-gluchit-pervaya-pomoshch/#%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0-%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BE%D0%BC-%D0%B3%D0%BB%D1%8E%D1%87%D0%B8%D1%82%3A-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C&quot;&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;h3 id=&quot;%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BE%D1%82-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0-%D0%BF%D0%BE-%D1%83%D0%BC%D0%BD%D0%BE%D0%BC%D1%83-%D0%B4%D0%BE%D0%BC%D1%83%3A-%D0%BA%D0%B0%D0%BA-%D0%B8%D0%B7%D0%B1%D0%B5%D0%B6%D0%B0%D1%82%D1%8C-%D0%B8-%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE-%D1%83%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C-%D0%BD%D0%B5%D0%BF%D0%BE%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8&quot; tabindex=&quot;-1&quot;&gt;Советы от специалиста по умному дому: как избежать и быстро устранить неполадки &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/kogda-umnyj-dom-gluchit-pervaya-pomoshch/#%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%8B-%D0%BE%D1%82-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0-%D0%BF%D0%BE-%D1%83%D0%BC%D0%BD%D0%BE%D0%BC%D1%83-%D0%B4%D0%BE%D0%BC%D1%83%3A-%D0%BA%D0%B0%D0%BA-%D0%B8%D0%B7%D0%B1%D0%B5%D0%B6%D0%B0%D1%82%D1%8C-%D0%B8-%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE-%D1%83%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%82%D1%8C-%D0%BD%D0%B5%D0%BF%D0%BE%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8&quot;&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;fri-oct-13-2023-01%3A00%3A00-gmt%2B0100-(western-european-summer-time)&quot; tabindex=&quot;-1&quot;&gt;Fri Oct 13 2023 01:00:00 GMT+0100 (Western European Summer Time) &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/kogda-umnyj-dom-gluchit-pervaya-pomoshch/#fri-oct-13-2023-01%3A00%3A00-gmt%2B0100-(western-european-summer-time)&quot;&gt;¶&lt;/a&gt;&lt;/h3&gt;
+&lt;h1 id=&quot;%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&quot; tabindex=&quot;-1&quot;&gt;Введение &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/kogda-umnyj-dom-gluchit-pervaya-pomoshch/#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&quot;&gt;¶&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Да, дорогие друзья, &lt;strong&gt;&lt;a href=&quot;https://comdev.com.ua/&quot;&gt;умные дома&lt;/a&gt;&lt;/strong&gt; – это, конечно, не новинка. Они делают нашу жизнь удобнее, теплее и светлее (буквально). Но что делать, если ваш дом начинает вести себя как подросток в протесте и отказывается слушаться? Прежде всего, не паникуйте. И не бегите искать молоток!&lt;/p&gt;
+&lt;h2 id=&quot;%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B5%D0%BF%D0%BE%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8-%D0%B8-%D0%B8%D1%85-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D1%8B&quot; tabindex=&quot;-1&quot;&gt;Основные неполадки и их причины &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/kogda-umnyj-dom-gluchit-pervaya-pomoshch/#%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B5%D0%BF%D0%BE%D0%BB%D0%B0%D0%B4%D0%BA%D0%B8-%D0%B8-%D0%B8%D1%85-%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D1%8B&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://comdev.com.ua/&quot;&gt;IoT&lt;/a&gt;&lt;/strong&gt; устройства отказываются синхронизироваться. Причина может быть в недостаточной мощности сети или проблемах с роутером. Напоминает ситуацию, когда два ваша любимых домашних робота решают “помолчать” друг с другом после ссоры.&lt;/li&gt;
+&lt;li&gt;Ваш &lt;strong&gt;&lt;a href=&quot;https://comdev.com.ua/&quot;&gt;ИИ&lt;/a&gt;&lt;/strong&gt; упорно называет вас Джоном, хотя ваше имя Андрей. Причина? Возможно, ваш ИИ обучался на сериале “Терминатор” и решил пошутить.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D1%8B%D0%B5-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F&quot; tabindex=&quot;-1&quot;&gt;Программные решения &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/kogda-umnyj-dom-gluchit-pervaya-pomoshch/#%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D1%8B%D0%B5-%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8F&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Обновите прошивку.&lt;/strong&gt; Это как учить бабушку пользоваться смартфоном – иногда просто нужно обновить операционную систему.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Перезагрузите систему.&lt;/strong&gt; Да, это банально, но работает. Как говорил мой друг – “перезагрузка решает 90% проблем, а остальные 10% – это вина пользователя”.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0&quot; tabindex=&quot;-1&quot;&gt;Аппаратные средства &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/kogda-umnyj-dom-gluchit-pervaya-pomoshch/#%D0%B0%D0%BF%D0%BF%D0%B0%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B5-%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B0&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Усилите сигнал.&lt;/strong&gt; Возможно, вашему роутеру нужна помощь в виде дополнительного усилителя. Или просто переставьте его поближе к устройствам.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Проверьте питание.&lt;/strong&gt; Ваш умный дом может быть просто голодным! Проверьте, не отключился ли блок питания или разрядилась батарея.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%B8-%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8&quot; tabindex=&quot;-1&quot;&gt;Защита и предосторожности &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/kogda-umnyj-dom-gluchit-pervaya-pomoshch/#%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%B8-%D0%BF%D1%80%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Слушайте, дорогие читатели, если ваш умный дом начнет вести себя странно, не игнорируйте это. Совет от специалиста – всегда следите за обновлениями безопасности и устанавливайте их незамедлительно.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&quot; tabindex=&quot;-1&quot;&gt;Заключение &lt;a class=&quot;direct-link&quot; href=&quot;https://comdev.com.ua/posts/kogda-umnyj-dom-gluchit-pervaya-pomoshch/#%D0%B7%D0%B0%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5&quot;&gt;¶&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Так что, если ваш &lt;strong&gt;&lt;a href=&quot;https://comdev.com.ua/&quot;&gt;умный дом&lt;/a&gt;&lt;/strong&gt; решил подшутить над вами, просто вспомните наши советы. И, пожалуйста, без молотков и бензопил! Ведь у нас все еще есть техподдержка.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://comdev.com.ua/&quot;&gt;Возврат на главную страницу&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Умный дом: когда комфорт встречает экономику</title>
