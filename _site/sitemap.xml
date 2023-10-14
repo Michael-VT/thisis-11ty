@@ -183,12 +183,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/stil/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/terapiya/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -274,6 +268,12 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/pitanie/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/stil/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -975,6 +975,12 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/golosovye-komandy/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/golosovye-assistenty/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -993,19 +999,13 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/golosovye-komandy/</loc>
+    <loc>https://comdev.com.ua/tags/govoryashie-ustrojstva/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   
   <url>
     <loc>https://comdev.com.ua/tags/analitika/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/govoryashie-ustrojstva/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1197,24 +1197,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/pozhilye-lyudi/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/zabota-na-rasstoyanii/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/tehnologicheskaya-podderzhka/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/umnye-ustrojstva-dlya-detej/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1234,6 +1216,24 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/bezopasnost-detej/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/pozhilye-lyudi/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/zabota-na-rasstoyanii/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/tehnologicheskaya-podderzhka/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1371,6 +1371,18 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/biznes/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/rost/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/gostepriimstvo/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1390,18 +1402,6 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/tehnologii-v-gostepriimstve/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/biznes/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/rost/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1617,12 +1617,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/bolelshik/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/roboty-pylesosy/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1647,25 +1641,7 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/ekologicheskaya-otvetstvennost/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/ekologicheskie-tehnologii/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/ustojchivoe-razvitie/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/ekosistema-monitoringa/</loc>
+    <loc>https://comdev.com.ua/tags/bolelshik/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1690,6 +1666,30 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/tehnologii-komforta/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/ekologicheskaya-otvetstvennost/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/ekologicheskie-tehnologii/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/ustojchivoe-razvitie/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/ekosistema-monitoringa/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -2367,30 +2367,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/umnaya-odezhda/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/moda/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/aksessuary/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/funkcionalnost/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/selskie-umnye-tehnologii/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -2428,6 +2404,30 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/effektivnoe-zemledelie/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/umnaya-odezhda/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/moda/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/aksessuary/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/funkcionalnost/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -3701,5 +3701,11 @@
   <url>
     <loc>https://comdev.com.ua/posts/zashchita-ot-sboev-arhitektura-nadezhnyh-umnyh-sistem/</loc>
     <lastmod>2023-10-13</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/posts/smarfon-otkazyvaetsya-upravlyat-domom/</loc>
+    <lastmod>2023-10-14</lastmod>
   </url>
 </urlset>
