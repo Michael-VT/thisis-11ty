@@ -4,3 +4,5 @@ package-lock.json
 mytasks/
 mytasks/tasks.md
 .venv/
+.DS_Store
+._*
