@@ -5,12 +5,20 @@
 	
 	<link href="https://comdev.com.ua/feed/feed.xml" rel="self"/>
 	<link href="https://comdev.com.ua/"/>
-	<updated>2023-10-19T00:00:00Z</updated>
+	<updated>2023-10-20T06:49:35Z</updated>
 	<id>https://comdev.com.ua/</id>
 	<author>
 		<name>Михаил Титов</name>
 		<email>m.v.titov@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://comdev.com.ua/posts/ekonom-i-relaksiruy/"/>
+		<updated>2023-10-20T06:49:35Z</updated>
+		<id>https://comdev.com.ua/posts/ekonom-i-relaksiruy/</id>
+		<content type="html"></content>
+	</entry>
 	
 	<entry>
 		<title>Умный дом на минималках: больше уюта за меньшие деньги</title>
