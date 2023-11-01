@@ -273,12 +273,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/stil/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/umnye-sistemy/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -286,6 +280,12 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/uhod-za-domashnimi-zhivotnymi/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/stil/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -393,7 +393,7 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/eplyj-pol-pod-laminat/</loc>
+    <loc>https://comdev.com.ua/tags/teplyj-pol-pod-laminat/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -459,7 +459,7 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/teplyj-pol-pod-laminat/</loc>
+    <loc>https://comdev.com.ua/tags/eplyj-pol-pod-laminat/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -693,19 +693,13 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/muzyka/</loc>
+    <loc>https://comdev.com.ua/tags/iskusstvennyj-intellekt/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   
   <url>
     <loc>https://comdev.com.ua/tags/dizajn/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/iskusstvennyj-intellekt/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -724,6 +718,12 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/yumor/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/muzyka/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -933,30 +933,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/futurizm/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/futbol/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/aviaciya/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/umnoe-zhile/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/gastronomiya/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1011,6 +987,24 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/futurizm/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/futbol/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/aviaciya/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/golosovye-assistenty/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1029,6 +1023,12 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/umnoe-zhile/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/golosovye-komandy/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1036,6 +1036,12 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/govoryashie-ustrojstva/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/analitika/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1066,12 +1072,6 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/detektiv/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/analitika/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1569,6 +1569,24 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/vodosnabzhenie/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/ekonomiya-resursov/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/sberezhenie-sredstv/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/zhizn/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1588,24 +1606,6 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/lyubov/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/vodosnabzhenie/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/ekonomiya-resursov/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/sberezhenie-sredstv/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1647,19 +1647,7 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/trebovaniya-k-assistentam/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/tehnicheskie-problemy/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/resheniya-dlya-umnogo-doma/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1671,13 +1659,13 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/nastrojka/</loc>
+    <loc>https://comdev.com.ua/tags/trebovaniya-k-assistentam/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/primery/</loc>
+    <loc>https://comdev.com.ua/tags/resheniya-dlya-umnogo-doma/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1707,13 +1695,25 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/syurprizy/</loc>
+    <loc>https://comdev.com.ua/tags/nastrojka/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/primery/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   
   <url>
     <loc>https://comdev.com.ua/tags/razvivayushie-igry/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/syurprizy/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1797,30 +1797,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/ekologicheskaya-otvetstvennost/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/ekologicheskie-tehnologii/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/ustojchivoe-razvitie/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/ekosistema-monitoringa/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/psihologiya-tehnologij/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1840,6 +1816,30 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/tehnologii-komforta/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/ekologicheskaya-otvetstvennost/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/ekologicheskie-tehnologii/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/ustojchivoe-razvitie/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/ekosistema-monitoringa/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1881,6 +1881,12 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/avantyura/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/vestern/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1899,12 +1905,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/avantyura/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/kommunikacii/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -1912,24 +1912,6 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/svyaz/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/ekonomiya-vody/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/ekologiya/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/sinhronizaciya/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1953,19 +1935,13 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/planirovanie/</loc>
+    <loc>https://comdev.com.ua/tags/ekonomiya-vody/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/socialnye-seti/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/kofevarka/</loc>
+    <loc>https://comdev.com.ua/tags/ekologiya/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -1984,6 +1960,24 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/elektronika/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/sinhronizaciya/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/socialnye-seti/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/kofevarka/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -2008,6 +2002,12 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/interaktivnost/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/planirovanie/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -2625,6 +2625,30 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/zelenaya-energiya/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/kontrol-kachestva/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/vozduh/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/snizhenie-rashodov/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/selskie-umnye-tehnologii/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -2662,30 +2686,6 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/effektivnoe-zemledelie/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/zelenaya-energiya/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/kontrol-kachestva/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/vozduh/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/snizhenie-rashodov/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -2985,6 +2985,12 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/progulki/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/transformaciya/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -2998,12 +3004,6 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/povsednevnyj-opyt/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/progulki/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -3057,18 +3057,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/arhitektura-bezopasnosti/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/avarijnye-scenarii/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/tyoplye-poly/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -3099,6 +3087,18 @@
   
   
   <url>
+    <loc>https://comdev.com.ua/tags/arhitektura-bezopasnosti/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/avarijnye-scenarii/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
     <loc>https://comdev.com.ua/tags/samodiagnostika/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -3106,6 +3106,12 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/montazh/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/materialy/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -3135,12 +3141,6 @@
   
   
   <url>
-    <loc>https://comdev.com.ua/tags/materialy/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
     <loc>https://comdev.com.ua/tags/ekonomiya-na-osveshenii/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
@@ -3154,6 +3154,24 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/avarijnoe-osveshenie/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/akkumulyaciya/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/kuhonnoe-oborudovanie/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/optimizaciya-zatrat/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -3178,24 +3196,6 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/stiralnaya-mashina/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/akkumulyaciya/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/kuhonnoe-oborudovanie/</loc>
-    <lastmod>2023-07-25</lastmod>
-  </url>
-  
-  
-  <url>
-    <loc>https://comdev.com.ua/tags/optimizaciya-zatrat/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -3262,6 +3262,24 @@
   
   <url>
     <loc>https://comdev.com.ua/tags/lokalnaya-set/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/provodka/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/wi-fi/</loc>
+    <lastmod>2023-07-25</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/tags/problemy-interneta/</loc>
     <lastmod>2023-07-25</lastmod>
   </url>
   
@@ -4420,6 +4438,12 @@
   
   <url>
     <loc>https://comdev.com.ua/posts/esli-vash-dom-zamerz-teploe-vozvraschenie-v-onlain/</loc>
+    <lastmod>2023-11-01</lastmod>
+  </url>
+  
+  
+  <url>
+    <loc>https://comdev.com.ua/posts/provodka-ili-wi-fi-chto-delat-pri-problemakh-s-internetom/</loc>
     <lastmod>2023-11-01</lastmod>
   </url>
   
