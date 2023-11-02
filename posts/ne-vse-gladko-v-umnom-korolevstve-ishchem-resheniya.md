@@ -3,7 +3,7 @@ title: "Не все гладко в умном королевстве: ищем 
 linkname: ne-vse-gladko-v-umnom-korolevstve-ishchem-resheniya
 description: "Анализ проблем и поиск решений для поддержания уюта в системах умного дома с IoT и ИИ."
 date: 2023-11-02
-cover: /img/ComDev.11ty.png
+cover: /img/ComDev.11ty.png 
 tags:
  - Умный дом
  - IoT
