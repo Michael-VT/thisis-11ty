@@ -22,5 +22,8 @@
     "luxon": "^3.0.1",
     "markdown-it": "^12.0.4",
     "markdown-it-anchor": "^8.6.4"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.63.0"
   }
 }
