@@ -19,11 +19,13 @@
     "@11ty/eleventy-navigation": "^0.3.3",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.1.0",
+    "@types/node-telegram-bot-api": "^0.63.1",
     "luxon": "^3.0.1",
     "markdown-it": "^12.0.4",
     "markdown-it-anchor": "^8.6.4"
   },
   "dependencies": {
-    "node-telegram-bot-api": "^0.63.0"
+    "node-telegram-bot-api": "^0.64.0",
+    "punycode": "^2.3.1"
   }
 }
