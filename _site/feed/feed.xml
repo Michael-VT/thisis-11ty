@@ -5,12 +5,20 @@
 	
 	<link href="https://comdev.com.ua/feed/feed.xml" rel="self"/>
 	<link href="https://comdev.com.ua/"/>
-	<updated>2023-11-13T00:00:00Z</updated>
+	<updated>2023-11-14T22:20:18Z</updated>
 	<id>https://comdev.com.ua/</id>
 	<author>
 		<name>Михаил Титов</name>
 		<email>m.v.titov@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title></title>
+		<link href="https://comdev.com.ua/posts/iscustvennyi-intellert-v-deistvii-5-sposobov-povysit-bezopasnost/"/>
+		<updated>2023-11-14T22:20:18Z</updated>
+		<id>https://comdev.com.ua/posts/iscustvennyi-intellert-v-deistvii-5-sposobov-povysit-bezopasnost/</id>
+		<content type="html"></content>
+	</entry>
 	
 	<entry>
 		<title>Запомни. Писать ничего не надо. Это же Умный дом!</title>
