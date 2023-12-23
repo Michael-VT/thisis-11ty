@@ -1,9 +1,8 @@
 ---
 title: "Адаптивный дом: как ИИ предугадывает ваши потребности"
-linkname: adaptivnyy-dom-kak-ii-predugadyvaet-vashi-potrebnosti
 description: "Мечта каждого болельщика: когда дом понимает ваше увлечение ещё до начала матча!"
 date: 2023-09-17
-cover: /img/SmartHomeBarcelonaChelsea.11ty.png
+cover: /img/ComDev.11ty.png
 tags: 
  - Адаптивный дом
  - ИИ
