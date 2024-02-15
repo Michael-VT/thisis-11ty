@@ -6,7 +6,7 @@ cover: /img/ComDev.11ty.png
 tags:
 - Умный дом
 - Протоколы связи
-- Zigbee
+- ZigBee
 - Z-Wave
 - Wi-Fi
 - Bluetooth

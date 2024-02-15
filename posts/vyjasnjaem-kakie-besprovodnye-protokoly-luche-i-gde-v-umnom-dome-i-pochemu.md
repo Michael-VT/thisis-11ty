@@ -6,7 +6,7 @@ cover: /img/ComDev.11ty.png
 tags:
 - Беспроводные протоколы
 - Умный дом
-- Zigbee
+- ZigBee
 - Wi-Fi
 - Bluetooth
 - Z-Wave
