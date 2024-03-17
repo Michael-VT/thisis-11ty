@@ -5,25 +5,25 @@ description: "Как спланировать систему умного дом
 date: 2023-11-06
 cover: /img/ComDev.11ty.png
 tags:
- - Умный дом
- - IoT
- - ИИ
- - дизайн интерьера
- - Автоматизация
- - Безопасность
- - Энергоэффективность
- - Интернет вещей
- - интеграция систем
- - Домашняя автоматизация
- - Управление умным домом
- - голосовое управление
- - smart home design
- - home automation
- - intelligent systems
- - smart technology
- - home security
- - energy saving
- - smart appliances
+- умный дом
+- iot
+- ии
+- дизайн интерьера
+- автоматизация
+- безопасность
+- энергоэффективность
+- интернет вещей
+- интеграция систем
+- домашняя автоматизация
+- управление умным домом
+- голосовое управление
+- smart home design
+- home automation
+- intelligent systems
+- smart technology
+- home security
+- energy saving
+- smart appliances
 ---
 
 # {{ title }}
